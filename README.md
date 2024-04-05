@@ -61,3 +61,12 @@ This bill will impact U.S. venture capital investment firms, even those not base
 Additionally, there are key legal steps outlined for startups in California, starting with choosing a suitable business structure such as LLC, S-Corp, C-Corp, Partnership, or Sole Proprietorship.
 It's essential to consider the legal and tax implications of each option.
 ```
+
+#### 2.4 Use the Streamlit UI to ask questions
+
+```bash
+streamlit run ui.py
+```
+
+![streamlit.png](streamlit.png)
+
